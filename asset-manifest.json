@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b02e4aee.js",
+    "static/js/269.b4dca6ce.js": "/static/js/269.b4dca6ce.js",
+    "static/media/background.png": "/static/media/background.9ae7f9f5a739e5ff321a.png",
+    "static/media/culture.png": "/static/media/culture.c6450aaa5b89fd903b1b.png",
+    "static/media/food.png": "/static/media/food.483593360682c66ccd4a.png",
+    "static/media/sport.png": "/static/media/sport.e9ea44b6111adc002495.png",
+    "static/media/nature.png": "/static/media/nature.3b4db61342107278f10b.png",
+    "static/media/health.png": "/static/media/health.4b441adc79808fb1bcd0.png",
+    "static/media/private_life.png": "/static/media/private_life.aa88aeefe6d4b058b90b.png",
+    "static/media/people.png": "/static/media/people.210adc2c757e2b9cc540.png",
+    "static/media/technology.png": "/static/media/technology.995ff1118e772451a452.png",
+    "static/media/education.png": "/static/media/education.4509c1f2651c9b6bce60.png",
+    "static/media/state_and_society.png": "/static/media/state_and_society.8f49155f27229f01575e.png",
+    "static/media/place_of_living.png": "/static/media/place_of_living.11b0cdb0f460a4f3a0bc.png",
+    "static/media/shopping.png": "/static/media/shopping.d60e61fb2bd1038fb33f.png",
+    "static/media/job.png": "/static/media/job.9595cf53fd4a6eb99203.png",
+    "static/media/travelling.png": "/static/media/travelling.8106c18e4e0e01d25672.png",
+    "static/media/nadgryzione_ciasteczko.png": "/static/media/nadgryzione_ciasteczko.89fabaa9c7ae7e1556a1.png",
+    "static/media/lazy_dog.ttf": "/static/media/lazy_dog.77379495118111536935.ttf",
+    "static/media/Derivia-Regular.otf": "/static/media/Derivia-Regular.9b8e2d87d7e99e1b1263.otf",
+    "static/media/reset.png": "/static/media/reset.85590573794a4af98269.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/cross.png": "/static/media/cross.2df799a3e1d13fc60573.png",
+    "static/media/tick.png": "/static/media/tick.e4b1902f169229ca34fd.png",
+    "static/media/back.png": "/static/media/back.4172f16a13a16ba96b48.png",
+    "index.html": "/index.html",
+    "static/media/lock.png": "/static/media/lock.b09058470823281bdd3d.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.b02e4aee.js.map": "/static/js/main.b02e4aee.js.map",
+    "269.b4dca6ce.js.map": "/static/js/269.b4dca6ce.js.map"
+  },
+  "entrypoints": [
+    "static/js/269.b4dca6ce.js",
+    "static/js/main.b02e4aee.js"
+  ]
+}
