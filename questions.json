@@ -794,5 +794,113 @@
         "How do you usually deal with language barriers when visiting a foreign country?"
       ]
     ]
+  },
+  {
+    "name": "shopping",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "culture",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "sport",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "health",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "technology",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "nature",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "state and society",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "holidays",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
+  },
+  {
+    "name": "matura sets",
+    "lock": false,
+    "titles": [
+      "A1 / A2",
+      "B1 / B2"
+    ],
+    "questions": [
+      [],
+      []
+    ]
   }
 ]
